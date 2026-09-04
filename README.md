@@ -3,11 +3,14 @@
 **Principal Architect · Enterprise Architecture · Cloud Platforms · Responsible AI**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Architecture_%26_AI_Writing-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/khadir)
-[![Instagram](https://img.shields.io/badge/Instagram-Visual_Architecture_%26_AI-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/k_thetechman/)
+[![Instagram](https://img.shields.io/badge/Instagram-K_The_Tech_Man-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/k_thetechman/)
+[![YouTube](https://img.shields.io/badge/YouTube-K_The_Tech_Man-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://youtube.com/@k_thetechman)
 
 Technology architect with 20+ years of experience across enterprise platforms, cloud systems and engineering modernisation.
 
 My work connects architecture, engineering leadership and practical technology strategy: turning complex requirements into systems that scale, evolve and operate reliably. Increasingly, I focus on helping organisations move beyond initial AI demonstrations towards useful, governed and dependable capabilities.
+
+Alongside my architecture work, I create practical AI and technology explainers under **K The Tech Man**, focused on making complex ideas easier to understand without unnecessary jargon or hype.
 
 ---
 
@@ -34,7 +37,7 @@ This work has included monolith-to-microservices modernisation, domain-aligned d
 
 ---
 
-## Public Writing & Visual Explainers
+## Public Writing & Explainers
 
 **Featured Analysis**
 
@@ -44,7 +47,8 @@ This work has included monolith-to-microservices modernisation, domain-aligned d
 **Channels**
 
 - **[LinkedIn](https://www.linkedin.com/in/khadir):** Longer-form thinking on architecture strategy, enterprise AI governance, agentic systems, RAG, evaluation and engineering leadership.
-- **[Instagram](https://www.instagram.com/k_thetechman/):** Visual explainers that translate architecture and AI ideas into concise, accessible Reels.
+- **[Instagram — K The Tech Man](https://www.instagram.com/k_thetechman/):** Short visual explainers covering AI fundamentals, practical AI, workflows and technology concepts.
+- **[YouTube — K The Tech Man](https://youtube.com/@k_thetechman):** Short, practical videos that explain AI and technology clearly, without unnecessary jargon or hype.
 
 ---
 
@@ -70,7 +74,7 @@ This work has included monolith-to-microservices modernisation, domain-aligned d
 `CI/CD` `Datadog` `OpenTelemetry` `Prometheus` `Monitoring` `SLO Thinking`
 
 **Data & AI Systems**<br>
-`RAG` `Agentic Systems` `Data Platforms`
+`RAG` `Agentic Systems` `AI Evaluation` `Responsible AI` `Data Platforms`
 
 ---
 
