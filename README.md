@@ -1,12 +1,13 @@
 # Khadir Syed
 
-**Principal Architect · Enterprise Architecture · Cloud Platforms · Responsible AI**
+**Senior Principal Architect · Enterprise Architecture · Cloud Platforms · Responsible AI**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Architecture_%26_AI_Writing-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/khadir)
 [![Instagram](https://img.shields.io/badge/Instagram-K_The_Tech_Man-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/k_thetechman/)
 [![YouTube](https://img.shields.io/badge/YouTube-K_The_Tech_Man-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://youtube.com/@k_thetechman)
+[![AI Skills](https://img.shields.io/badge/GitHub-AI_Agent_Skills-7C3AED?style=flat-square&logo=github&logoColor=white)](https://github.com/khadir-syed/ai-agent-skills)
 
-Technology architect with 20+ years of experience across enterprise platforms, cloud systems and engineering modernisation.
+Technology architect with 22+ years of experience across enterprise platforms, cloud systems and engineering modernisation.
 
 My work connects architecture, engineering leadership and practical technology strategy: turning complex requirements into systems that scale, evolve and operate reliably. Increasingly, I focus on helping organisations move beyond initial AI demonstrations towards useful, governed and dependable capabilities.
 
@@ -31,9 +32,27 @@ This work has included monolith-to-microservices modernisation, domain-aligned d
 - **Enterprise & Solution Architecture:** Connecting business intent, platform constraints and engineering reality.
 - **Cloud Platforms & Resilience:** Designing for scale, operability and observability across distributed systems.
 - **Responsible Enterprise AI:** Grounding adoption in evidence, evaluation approaches, human oversight and governance.
-- **Agentic Workflows:** Examining role clarity, context hand-offs, decision boundaries and trajectory evaluation.
+- **Agentic Workflows:** Exploring reusable skills, context hand-offs, role boundaries, approval points and trajectory evaluation for AI-assisted work.
 - **RAG & Grounded Generation:** Distinguishing retrieval quality, context completeness, faithfulness and citation integrity.
 - **Engineering Enablement:** Creating paved paths that improve delivery without turning architecture into a bottleneck.
+
+---
+
+## Featured Open Source
+
+### [AI Skills and Agents Samples](https://github.com/khadir-syed/ai-agent-skills)
+
+Reusable, Markdown-based AI skills designed to work across **OpenAI Codex, Claude Code and GitHub Copilot CLI**.
+
+The repository explores how repeatable instructions, evidence boundaries and explicit approval points can make AI-assisted workflows more dependable—not simply more autonomous.
+
+Current examples apply common skill patterns across:
+
+`Software Engineering` · `Product` · `Content` · `Social Media`
+
+The collection progresses from **skills → agents → multi-agent orchestration**, with an emphasis on reusable patterns, clear decision boundaries and safety-first execution.
+
+**[Explore the repository →](https://github.com/khadir-syed/ai-agent-skills)**
 
 ---
 
@@ -74,7 +93,7 @@ This work has included monolith-to-microservices modernisation, domain-aligned d
 `CI/CD` `Datadog` `OpenTelemetry` `Prometheus` `Monitoring` `SLO Thinking`
 
 **Data & AI Systems**<br>
-`RAG` `Agentic Systems` `AI Evaluation` `Responsible AI` `Data Platforms`
+`RAG` `Agentic Systems` `AI Evaluation` `Responsible AI` `AI Skills` `Data Platforms`
 
 ---
 
