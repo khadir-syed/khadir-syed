@@ -5,7 +5,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Architecture_%26_AI_Writing-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/khadir)
 [![Instagram](https://img.shields.io/badge/Instagram-K_The_Tech_Man-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/k_thetechman/)
 [![YouTube](https://img.shields.io/badge/YouTube-K_The_Tech_Man-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://youtube.com/@k_thetechman)
-[![AI Skills](https://img.shields.io/badge/GitHub-AI_Agent_Skills-7C3AED?style=flat-square&logo=github&logoColor=white)](https://github.com/khadir-syed/ai-agent-skills)
+[![AI Skills](https://img.shields.io/badge/GitHub-AI_Agent_Skills-7C3AED?style=flat-square&logo=github&logoColor=white)](https://github.com/khadir-syed/k_ai-agent-skills)
 
 Technology architect with 22+ years of experience across enterprise platforms, cloud systems and engineering modernisation.
 
@@ -40,7 +40,7 @@ This work has included monolith-to-microservices modernisation, domain-aligned d
 
 ## Featured Open Source
 
-### [AI Skills and Agents Samples](https://github.com/khadir-syed/ai-agent-skills)
+### [AI Skills and Agents Samples](https://github.com/khadir-syed/k_ai-agent-skills)
 
 Reusable, Markdown-based AI skills designed to work across **OpenAI Codex, Claude Code and GitHub Copilot CLI**.
 
@@ -52,7 +52,7 @@ Current examples apply common skill patterns across:
 
 The collection progresses from **skills → agents → multi-agent orchestration**, with an emphasis on reusable patterns, clear decision boundaries and safety-first execution.
 
-**[Explore the repository →](https://github.com/khadir-syed/ai-agent-skills)**
+**[Explore the repository →](https://github.com/khadir-syed/k_ai-agent-skills)**
 
 ---
 
