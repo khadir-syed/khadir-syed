@@ -2,16 +2,17 @@
 
 **Senior Principal Architect · Enterprise Architecture · Cloud Platforms · Responsible AI**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Architecture_%26_AI_Writing-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/khadir)
-[![Instagram](https://img.shields.io/badge/Instagram-K_The_Tech_Man-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/k_thetechman/)
-[![YouTube](https://img.shields.io/badge/YouTube-K_The_Tech_Man-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://youtube.com/@k_thetechman)
-[![AI Skills](https://img.shields.io/badge/GitHub-AI_Agent_Skills-7C3AED?style=flat-square&logo=github&logoColor=white)](https://github.com/khadir-syed/k_ai-agent-skills)
+[![Architecture & Tech Hub](https://img.shields.io/badge/Tech_Hub-khadir--syed.github.io-D97706?style=for-the-badge&logo=githubpages&logoColor=white&labelColor=181512)](https://khadir-syed.github.io)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-khadir-D97706?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=181512)](https://www.linkedin.com/in/khadir)
+[![YouTube](https://img.shields.io/badge/YouTube-K_THE_TECHMAN-D97706?style=for-the-badge&logo=youtube&logoColor=white&labelColor=181512)](https://youtube.com/@k_thetechman)
+[![Instagram](https://img.shields.io/badge/Instagram-@k_thetechman-D97706?style=for-the-badge&logo=instagram&logoColor=white&labelColor=181512)](https://www.instagram.com/k_thetechman/)
+[![AI Skills](https://img.shields.io/badge/AI_Agent_Skills-Repo-D97706?style=for-the-badge&logo=github&logoColor=white&labelColor=181512)](https://github.com/khadir-syed/k_ai-agent-skills)
 
 Technology architect with 22+ years of experience across enterprise platforms, cloud systems and engineering modernisation.
 
 My work connects architecture, engineering leadership and practical technology strategy: turning complex requirements into systems that scale, evolve and operate reliably. Increasingly, I focus on helping organisations move beyond initial AI demonstrations towards useful, governed and dependable capabilities.
 
-Alongside my architecture work, I create practical AI and technology explainers under **K The Tech Man**, focused on making complex ideas easier to understand without unnecessary jargon or hype.
+Alongside my architecture work, I create practical AI and technology explainers under **K THE TECHMAN**, focused on making complex ideas easier to understand without unnecessary jargon or hype.
 
 ---
 
@@ -65,9 +66,10 @@ The collection progresses from **skills → agents → multi-agent orchestration
 
 **Channels**
 
+- **[Architecture & Tech Hub](https://khadir-syed.github.io):** Production blueprints, cheat sheets, and direct access across my complete ecosystem.
 - **[LinkedIn](https://www.linkedin.com/in/khadir):** Longer-form thinking on architecture strategy, enterprise AI governance, agentic systems, RAG, evaluation and engineering leadership.
-- **[Instagram — K The Tech Man](https://www.instagram.com/k_thetechman/):** Short visual explainers covering AI fundamentals, practical AI, workflows and technology concepts.
-- **[YouTube — K The Tech Man](https://youtube.com/@k_thetechman):** Short, practical videos that explain AI and technology clearly, without unnecessary jargon or hype.
+- **[YouTube — K THE TECHMAN](https://youtube.com/@k_thetechman):** Short, practical videos that explain AI and technology clearly, without unnecessary jargon or hype.
+- **[Instagram — K THE TECHMAN](https://www.instagram.com/k_thetechman/):** Short visual explainers covering AI fundamentals, practical AI, workflows and technology concepts.
 
 ---
 
