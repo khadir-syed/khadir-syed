@@ -6,7 +6,8 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-khadir-D97706?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=181512)](https://www.linkedin.com/in/khadir)
 [![YouTube](https://img.shields.io/badge/YouTube-K_THE_TECHMAN-D97706?style=for-the-badge&logo=youtube&logoColor=white&labelColor=181512)](https://youtube.com/@k_thetechman)
 [![Instagram](https://img.shields.io/badge/Instagram-@k_thetechman-D97706?style=for-the-badge&logo=instagram&logoColor=white&labelColor=181512)](https://www.instagram.com/k_thetechman/)
-[![AI Skills](https://img.shields.io/badge/AI_Agent_Skills-Repo-D97706?style=for-the-badge&logo=github&logoColor=white&labelColor=181512)](https://github.com/khadir-syed/k_ai-agent-skills)
+[![AI Skills](https://img.shields.io/badge/AI_Skills-Repo-D97706?style=for-the-badge&logo=github&logoColor=white&labelColor=181512)](https://github.com/khadir-syed/k_ai-agent-skills)
+[![AI Basics](https://img.shields.io/badge/AI_Basics-Repo-D97706?style=for-the-badge&logo=github&logoColor=white&labelColor=181512)](https://github.com/khadir-syed/k_ai-basics)
 
 Technology architect with 22+ years of experience across enterprise platforms, cloud systems and engineering modernisation.
 
@@ -41,19 +42,27 @@ This work has included monolith-to-microservices modernisation, domain-aligned d
 
 ## Featured Open Source
 
-### [AI Skills and Agents Samples](https://github.com/khadir-syed/k_ai-agent-skills)
+### [1. AI Agent Skills & Samples](https://github.com/khadir-syed/k_ai-agent-skills)
 
 Reusable, Markdown-based AI skills designed to work across **OpenAI Codex, Claude Code and GitHub Copilot CLI**.
 
 The repository explores how repeatable instructions, evidence boundaries and explicit approval points can make AI-assisted workflows more dependable—not simply more autonomous.
 
-Current examples apply common skill patterns across:
-
+Current examples apply common skill patterns across:  
 `Software Engineering` · `Product` · `Content` · `Social Media`
 
-The collection progresses from **skills → agents → multi-agent orchestration**, with an emphasis on reusable patterns, clear decision boundaries and safety-first execution.
+**[Explore k_ai-agent-skills →](https://github.com/khadir-syed/k_ai-agent-skills)**
 
-**[Explore the repository →](https://github.com/khadir-syed/k_ai-agent-skills)**
+---
+
+### [2. AI Architecture Foundations](https://github.com/khadir-syed/k_ai-basics)
+
+Grounded mental models and engineering fundamentals for applied enterprise AI—built with zero marketing fluff.
+
+Explores core mechanics including:  
+`Token Economics` · `High-Dimensional Embeddings` · `Chunking Strategies` · `Context Management` · `Evaluation Drift`
+
+**[Explore k_ai-basics →](https://github.com/khadir-syed/k_ai-basics)**
 
 ---
 
@@ -61,8 +70,8 @@ The collection progresses from **skills → agents → multi-agent orchestration
 
 **Featured Analysis**
 
-- **[Your Agent Passed Every Test. Then Someone Changed the Prompt](https://www.linkedin.com/posts/khadir_artificialintelligence-agenticai-aigovernance-share-7491976135858216960-LWX1):** Why agent evaluation must inspect required tool calls, compliance checks, approval points and action paths—not only the final answer.  
-  ↳ *[Watch the visual explainer on Instagram](https://www.instagram.com/reel/Db7XNwzRAAs)*
+- **[AI Didn’t Remove the Work—It Shifted the Assurance Downstream](https://www.linkedin.com/posts/khadir_ai-didnt-remove-the-work-it-made-part-of-ugcPost-7507931876611981314-7pwa/):** Faster drafting is not work removed. Along with tracking time saved, why enterprises must measure who absorbs technical validation and exception handling.  
+  ↳ *[Watch the visual mental model on Instagram: Chatbot vs. AI Agent Loop](https://www.instagram.com/reel/DdsqKxqo66v/)*
 
 **Channels**
 
