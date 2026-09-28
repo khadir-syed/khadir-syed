@@ -6,8 +6,8 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-khadir-D97706?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=181512)](https://www.linkedin.com/in/khadir)
 [![YouTube](https://img.shields.io/badge/YouTube-K_THE_TECHMAN-D97706?style=for-the-badge&logo=youtube&logoColor=white&labelColor=181512)](https://youtube.com/@k_thetechman)
 [![Instagram](https://img.shields.io/badge/Instagram-@k_thetechman-D97706?style=for-the-badge&logo=instagram&logoColor=white&labelColor=181512)](https://www.instagram.com/k_thetechman/)
-[![AI Skills](https://img.shields.io/badge/AI_Skills-Repo-D97706?style=for-the-badge&logo=github&logoColor=white&labelColor=181512)](https://github.com/khadir-syed/k_ai-agent-skills)
-[![AI Basics](https://img.shields.io/badge/AI_Basics-Repo-D97706?style=for-the-badge&logo=github&logoColor=white&labelColor=181512)](https://github.com/khadir-syed/k_ai-basics)
+[![Live Docs: AI Skills](https://img.shields.io/badge/Live_Docs-AI_Skills-D97706?style=for-the-badge&logo=gitbook&logoColor=white&labelColor=181512)](https://khadir-syed.github.io/k_ai-agent-skills)
+[![Live Guide: AI Basics](https://img.shields.io/badge/Live_Guide-AI_Basics-D97706?style=for-the-badge&logo=readme&logoColor=white&labelColor=181512)](https://khadir-syed.github.io/k_ai-basics)
 
 Technology architect with 22+ years of experience across enterprise platforms, cloud systems and engineering modernisation.
 
@@ -42,7 +42,7 @@ This work has included monolith-to-microservices modernisation, domain-aligned d
 
 ## Featured Open Source
 
-### [1. AI Agent Skills & Samples](https://github.com/khadir-syed/k_ai-agent-skills)
+### 1. AI Agent Skills & Samples
 
 Reusable, Markdown-based AI skills designed to work across **OpenAI Codex, Claude Code and GitHub Copilot CLI**.
 
@@ -51,18 +51,20 @@ The repository explores how repeatable instructions, evidence boundaries and exp
 Current examples apply common skill patterns across:  
 `Software Engineering` · `Product` · `Content` · `Social Media`
 
-**[Explore k_ai-agent-skills →](https://github.com/khadir-syed/k_ai-agent-skills)**
+* 🌐 **Live Documentation:** [khadir-syed.github.io/k_ai-agent-skills](https://khadir-syed.github.io/k_ai-agent-skills)
+* 📦 **GitHub Repository:** [khadir-syed/k_ai-agent-skills](https://github.com/khadir-syed/k_ai-agent-skills)
 
 ---
 
-### [2. AI Architecture Foundations](https://github.com/khadir-syed/k_ai-basics)
+### 2. AI Architecture Foundations
 
 Grounded mental models and engineering fundamentals for applied enterprise AI—built with zero marketing fluff.
 
 Explores core mechanics including:  
 `Token Economics` · `High-Dimensional Embeddings` · `Chunking Strategies` · `Context Management` · `Evaluation Drift`
 
-**[Explore k_ai-basics →](https://github.com/khadir-syed/k_ai-basics)**
+* 🌐 **Interactive Guide:** [khadir-syed.github.io/k_ai-basics](https://khadir-syed.github.io/k_ai-basics)
+* 📦 **GitHub Repository:** [khadir-syed/k_ai-basics](https://github.com/khadir-syed/k_ai-basics)
 
 ---
 
